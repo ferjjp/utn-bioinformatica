@@ -1,6 +1,0 @@
-[-]
-_export = NCBI_EUTILS_EXPORT
-_namespace = epost
-
-[EPostResult]
-QW._class = C_History

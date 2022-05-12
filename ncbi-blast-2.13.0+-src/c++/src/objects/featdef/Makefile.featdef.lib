@@ -1,6 +1,0 @@
-LIB = featdef
-SRC = featdef__ featdef___
-
-
-USES_LIBRARIES =  \
-    xser

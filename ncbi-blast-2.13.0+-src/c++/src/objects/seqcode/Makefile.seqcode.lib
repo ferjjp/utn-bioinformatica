@@ -1,6 +1,0 @@
-LIB = seqcode
-SRC = seqcode__ seqcode___
-
-
-USES_LIBRARIES =  \
-    xser

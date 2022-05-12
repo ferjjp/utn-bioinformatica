@@ -1,6 +1,0 @@
-LIB = medlars
-SRC = medlars__ medlars___
-
-
-USES_LIBRARIES =  \
-    biblio

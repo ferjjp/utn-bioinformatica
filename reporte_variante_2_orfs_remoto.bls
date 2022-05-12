@@ -1,0 +1,143 @@
+BLASTP 2.13.0+
+
+
+Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+Query= blast-sequence-temp-id 
+       (1,609 letters)
+
+Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+           469,534,606 sequences; 181,459,231,659 total letters
+
+                                                                 Score       E
+Sequences producing significant alignments:                      (bits)    value
+
+
+  Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+    Posted date:  May 8, 2022  2:43 AM
+	Number of letters in database: 181,459,231,659
+	Number of sequences in database: 469,534,606
+
+  Matrix: BLOSUM62
+  Gap Penalties Existence: 11, Extension: 1
+expect: 1e-10
+allowgaps: yes
+Search Statistics
+A: 40
+Hits_to_DB: 5,213,376,034
+S1: 38
+S1_bits: 19.2
+S2: 197
+S2_bits: 80.5
+T: 11
+X1: 15
+X1_bits: 7.5
+X2: 38
+X2_bits: 14.6
+X3: 64
+X3_bits: 24.7
+dbentries: 469,534,606
+dbletters: 181,459,231,659
+effectivedblength: 97,412,537,185
+effectivespace: 139,299,928,174,550
+effectivespaceused: 139,299,928,174,550
+entropy: 0.540
+entropy_gapped: 0.140
+kappa: 0.149
+kappa_gapped: 0.0410
+lambda: 0.345
+lambda_gapped: 0.267
+length_adjustment: 179
+num_extensions: 167,816,498
+num_successful_extensions: 558,138
+number_of_hsps_better_than_expect_value_cutoff_without_gapping: 0
+number_of_hsps_gapped: 558,138
+number_of_hsps_successfully_gapped: 0
+querylength: 1,430
+seqs_better_than_1e-10: 0
+
+
+BLASTP 2.13.0+
+
+
+Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+Query= blast-sequence-temp-id 
+       (1,608 letters)
+
+Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+           469,534,606 sequences; 181,459,231,659 total letters
+
+                                                                 Score       E
+Sequences producing significant alignments:                      (bits)    value
+XP_008258316.1 PREDICTED: SLIT and NTRK-like protein 1, partia...   84.0  7e-12
+
+
+>XP_008258316.1 PREDICTED: SLIT and NTRK-like protein 1, partial [Oryctolagus cuniculus]
+         Length = 817
+
+ Score = 84.0 bits (206), Expect = 7e-12
+ Identities = 54/97 (55%), Positives = 57/97 (58%), Gaps = 5/97 (5%)
+
+
+Query: 870 RLRPQPQ*GRAEGRR-----YILPHRRHPGGWRGVYPNPRAISLDGHK*INNCELAQPKG 924
+           RL P  + GRA G R        P R  P G RGV P P      G K INN ELAQP+G 
+Sbjct: 696 RLSPGRKKGRAVGHRNRHSLLPTPRRTPPRGRRGVDPIPERPKPHGQKSINNQELAQPRG 755
+
+Query: 925 PDPLLSSLLETKSRLWRAGRAQPARSLLRAPFDRKPS 961
+            DP  SSLL+TKSRL RAGR Q  RSLL A  DRKPS 
+Sbjct: 756 SDPSPSSLLQTKSRLLRAGRTQLPRSLLGAHVDRKPS 792
+
+
+  Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+    Posted date:  May 8, 2022  2:43 AM
+	Number of letters in database: 181,459,231,659
+	Number of sequences in database: 469,534,606
+
+  Matrix: BLOSUM62
+  Gap Penalties Existence: 11, Extension: 1
+expect: 1e-10
+allowgaps: yes
+Search Statistics
+A: 40
+Hits_to_DB: 5,715,932,566
+S1: 38
+S1_bits: 19.2
+S2: 197
+S2_bits: 80.5
+T: 11
+X1: 14
+X1_bits: 7.0
+X2: 38
+X2_bits: 14.6
+X3: 64
+X3_bits: 24.7
+dbentries: 469,534,606
+dbletters: 181,459,231,659
+effectivedblength: 97,412,537,185
+effectivespace: 139,202,515,637,365
+effectivespaceused: 139,202,515,637,365
+entropy: 0.554
+entropy_gapped: 0.140
+kappa: 0.154
+kappa_gapped: 0.0410
+lambda: 0.347
+lambda_gapped: 0.267
+length_adjustment: 179
+num_extensions: 219,206,353
+num_successful_extensions: 684,205
+number_of_hsps_better_than_expect_value_cutoff_without_gapping: 0
+number_of_hsps_gapped: 684,205
+number_of_hsps_successfully_gapped: 0
+querylength: 1,429
+seqs_better_than_1e-10: 0
+
+

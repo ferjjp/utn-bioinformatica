@@ -1,7 +1,0 @@
-LIB = pub
-SRC = pub__ pub___
-
-DLL_LIB = medline biblio
-
-USES_LIBRARIES =  \
-    medline

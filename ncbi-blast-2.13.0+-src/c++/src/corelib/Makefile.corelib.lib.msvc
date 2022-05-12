@@ -1,3 +1,0 @@
-[AddToProject]
-HeadersInInclude = *.hpp *.h
-SourceFiles = ncbi_os_mswin

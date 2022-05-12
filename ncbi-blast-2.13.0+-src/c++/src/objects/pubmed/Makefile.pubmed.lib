@@ -1,6 +1,0 @@
-LIB = pubmed
-SRC = pubmed__ pubmed___
-
-
-USES_LIBRARIES =  \
-    medline

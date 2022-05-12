@@ -1,6 +1,0 @@
-LIB = entrezgene
-SRC = entrezgene__ entrezgene___
-
-
-USES_LIBRARIES =  \
-    $(SEQ_LIBS) pub

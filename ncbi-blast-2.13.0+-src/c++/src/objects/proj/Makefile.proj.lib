@@ -1,6 +1,0 @@
-LIB = proj
-SRC = proj__ proj___
-
-
-USES_LIBRARIES =  \
-    pubmed seqset

@@ -1,7 +1,0 @@
-# Meta-makefile for Spdi
-#################################
-
-ASN_PROJ = search_by_rsid
-
-srcdir = @srcdir@
-include @builddir@/Makefile.meta

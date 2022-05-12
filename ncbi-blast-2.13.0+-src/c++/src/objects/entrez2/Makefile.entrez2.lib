@@ -1,8 +1,0 @@
-WATCHERS = lavr
-
-LIB = entrez2
-SRC = entrez2__ entrez2___
-
-
-USES_LIBRARIES =  \
-    xser

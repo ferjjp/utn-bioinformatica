@@ -1,7 +1,0 @@
-# Build library logging
-
-SRC = message listener
-
-LIB = xlogging
-
-WATCHERS = foleyjp

@@ -1,2 +1,0 @@
-NCBI Magic-BLAST is a specialized variant of BLAST designed for mapping
-next-generation RNA or DNA sequencing runs against a genome or transcriptome.

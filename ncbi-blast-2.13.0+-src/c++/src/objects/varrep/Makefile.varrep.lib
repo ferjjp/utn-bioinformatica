@@ -1,3 +1,0 @@
-ASN = varrep
-SRC = $(ASN:%=%__) $(ASN:%=%___)
-LIB = varrep

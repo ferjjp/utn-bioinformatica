@@ -1,3 +1,0 @@
-ASN_PROJ = varrep
-srcdir = @srcdir@
-include @builddir@/Makefile.meta

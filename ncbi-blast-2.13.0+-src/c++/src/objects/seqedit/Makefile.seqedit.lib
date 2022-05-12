@@ -1,7 +1,0 @@
-LIB = seqedit
-SRC = seqedit__ seqedit___
- 
-
-
-USES_LIBRARIES =  \
-    seqset

@@ -1,6 +1,0 @@
-# $Id: Makefile.in 181022 2010-01-14 19:47:38Z vasilche $
-
-APP_PROJ = test_bam_loader
-
-srcdir = @srcdir@
-include @builddir@/Makefile.meta
