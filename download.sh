@@ -10,4 +10,8 @@ gzip -d swissprot.gz
 wget https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.13.0+-x64-linux.tar.gz
 tar xvf ncbi-blast-2.13.0+-x64-linux.tar.gz
 
+#Execute local blast
 BLASTPLUSDIR=$(pwd)/ncbi-blast-2.13.0+/bin ./Ex2_local.pm
+
+#Execute remote blast
+./Ex2.pm
